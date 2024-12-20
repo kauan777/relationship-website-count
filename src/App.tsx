@@ -25,7 +25,7 @@ function App() {
     const seconds = totalSeconds % 60;
 
     setTimeElapsed(
-      `Estavamos juntos por: ${months.toString().padStart(2, "0")} meses, ${days
+      `Estamos juntos por: ${months.toString().padStart(2, "0")} meses, ${days
         .toString()
         .padStart(2, "0")} dias, ${hours
         .toString()
